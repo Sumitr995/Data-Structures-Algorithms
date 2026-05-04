@@ -1,0 +1,8 @@
+// Ignore VS Code settings
+.vscode/
+
+// Ignore .exe files
+*.exe
+
+// Ignore .dll files
+*.dll
