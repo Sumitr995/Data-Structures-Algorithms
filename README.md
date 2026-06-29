@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
