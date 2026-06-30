@@ -4,10 +4,10 @@ public:
         int n = nums.size();
         vector<int> ans;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target) {
-                    ans.push_back(i);
+        for (int k = 0; k < n; k++) { // outer loop 
+            for (int j = k + 1; j < n; j++) { // inner loop
+                if (nums[k] + nums[j] == target) {
+                    ans.push_back(k);
                     ans.push_back(j);
 
                     return ans;
