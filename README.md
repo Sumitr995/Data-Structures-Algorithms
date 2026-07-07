@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
+| [3136-valid-word](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3136-valid-word) |
 ## Sorting
 |  |
 | ------- |
