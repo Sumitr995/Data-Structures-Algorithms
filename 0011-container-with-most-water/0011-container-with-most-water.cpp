@@ -1,20 +1,29 @@
 class Solution {
 public:
     int maxArea(vector<int>& heights) {
-        int l = 0;
-        int r = heights.size() - 1;
-        int res = 0;
 
-        while (l < r) {
-            int area = min(heights[l], heights[r]) * (r - l);
-            res = max(res, area);
+        int maxArea = 0;
 
-            if (heights[l] <= heights[r]) {
-                l++;
-            } else {
-                r--;
+        int lp = 0;
+        int rp = heights.size() - 1;
+
+        while(lp < rp){
+
+            int width = rp - lp; // distance between pointers = width
+            int ht = min(heights[lp], heights[rp]); // smallest height between pointers
+            int currArea = width * ht; // area of square
+
+            maxArea = max(maxArea, currArea); // compare and push max area
+
+            // move smaller height pointer
+            if(heights[lp] < heights[rp]){
+                lp++;
+            }
+            else{
+                rp--;
             }
         }
-        return res;
+
+        return maxArea;
     }
 };
