@@ -1,22 +1,36 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int n = numbers.size();
-        vector<int>sum;
+
+        // Left pointer starts from beginning
         int left = 0;
-        int right = n - 1;
-        while( left < right){
+
+        // Right pointer starts from end
+        int right = numbers.size() - 1;
+
+        // Continue until pointers meet
+        while (left < right) {
+
+            // Calculate current sum
             int currSum = numbers[left] + numbers[right];
-            if( currSum > target){
-                right--;
-            }else if(currSum < target){
+
+            // Found the answer
+            if (currSum == target) {
+                return {left + 1, right + 1}; // 1-based indexing
+            }
+
+            // Need a bigger sum
+            else if (currSum < target) {
                 left++;
-            }else{
-                sum.push_back(left + 1);
-                sum.push_back(right + 1);
-                break;
+            }
+
+            // Need a smaller sum
+            else {
+                right--;
             }
         }
-        return sum;
+
+        // Problem guarantees one solution
+        return {};
     }
 };
