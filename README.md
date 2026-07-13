@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
