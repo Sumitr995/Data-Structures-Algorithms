@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
