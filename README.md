@@ -141,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
