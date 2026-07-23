@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
