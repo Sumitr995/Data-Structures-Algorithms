@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
