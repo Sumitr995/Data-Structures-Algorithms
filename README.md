@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0567-permutation-in-string) |
 | [3136-valid-word](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3136-valid-word) |
+| [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Simulation
+|  |
+| ------- |
+| [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 <!---LeetCode Topics End-->
