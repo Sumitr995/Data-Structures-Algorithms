@@ -3,31 +3,32 @@ public:
     bool isValid(string s) {
         stack<char> st;
 
-        for(char c: s){
-            if(c=='('){
+        for (char c : s) {
+            if (c == '(') {
                 st.push('(');
-            }
-            else if( c=='['){
+            } else if (c == '[') {
                 st.push('[');
-            }
-            else if(c=='{'){
+            } else if (c == '{') {
                 st.push('{');
+            } else if (c == ')') {
+                if (!st.empty() && st.top() == '(')
+                    st.pop();
+                else
+                    return false;
+            } else if (c == ']') {
+                if (!st.empty() && st.top() == '[')
+                    st.pop();
+                else
+                    return false;
+            } else if (c == '}') {
+                if (!st.empty() && st.top() == '{')
+                    st.pop();
+                else
+                    return false;
             }
-            else if(c==')'){
-                if(!st.empty() && st.top()=='(') st.pop();
-                else return false;
-            }
-            else if(c==']'){
-                if(!st.empty() && st.top()=='[') st.pop();
-                else return false;
-            }
-            else if(c=='}'){
-                if(!st.empty() && st.top()=='{') st.pop();
-                else return false;
-            }
-            
         }
-        if(st.empty()) return true;
+        if (st.empty())
+            return true;
         return false;
     }
 };
