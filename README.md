@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
@@ -201,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
