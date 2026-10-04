@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0977-squares-of-a-sorted-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 ## Bit Manipulation
 |  |
