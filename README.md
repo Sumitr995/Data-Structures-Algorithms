@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3136-valid-word](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3136-valid-word) |
 | [3248-snake-in-matrix](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/3248-snake-in-matrix) |
 ## Sorting
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumitr995/Data-Structures-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
